@@ -4,8 +4,6 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Dataset:
-# Download: Global Data on Sustainable Energy (2000-2020)
-# Save as: global-data-on-sustainable-energy.csv
 
 df = pd.read_csv("global-data-on-sustainable-energy.csv")
 

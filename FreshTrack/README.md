@@ -10,18 +10,18 @@ FreshTrack helps households track groceries, predicts when items will spoil, and
 
 Nearly a third of all food produced globally is wasted, and a huge chunk of that happens right at home — groceries get forgotten, expiry dates slip by, and leftovers get binned simply because nobody was tracking what needed to be used. Every wasted item also wastes the water, energy, and emissions that went into producing it.
 
-## 💡 The Solution
+## The Solution
 
 Users photograph their groceries or a receipt after a shopping trip. FreshTrack identifies the items, estimates how long each will stay fresh, and builds a running **"use-it-soon" list** — with reminders before things spoil and recipe suggestions built around what's about to expire.
 
-## ✨ Key Features
+## Key Features
 
 - 📸 **Zero manual entry** — one photo of groceries or a receipt logs the whole haul via OCR + image recognition
 - 🔮 **Predictive, not reactive** — shelf-life estimates warn users *before* food spoils, not after
 - 🍽 **Turns waste into meals** — expiring items automatically surface as recipe suggestions
 - 📈 **Learns over time** — a waste log lets users mark what was actually thrown out, sharpening future predictions
 
-## 🔄 How It Works
+## How It Works
 
 ```
 📷 Capture  →  🔎 Recognize  →  📅 Predict  →  🔔 Remind  →  🍳 Suggest
@@ -35,14 +35,14 @@ Users photograph their groceries or a receipt after a shopping trip. FreshTrack 
 
 🔁 **Feedback loop:** users log what was actually thrown away in the Waste Log, and the shelf-life model recalibrates over time.
 
-## 👥 Who It's For
+## Who It's For
 
 - **Households** — cutting grocery bills and waste week to week
 - **Hostels & mess canteens** — tracking bulk perishables for large groups
 - **Small restaurants & cafés** — managing perishable inventory without expensive POS systems
 - **Sustainability communities** — apartments and eco-groups running waste-reduction drives
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Software & AI**
 - Python — core language
@@ -58,18 +58,18 @@ Users photograph their groceries or a receipt after a shopping trip. FreshTrack 
 - Self-collected grocery photo dataset
 - USDA FoodKeeper shelf-life reference data
 
-## 🔭 Future Perspective
+## Future Perspective
 
 - 📡 **Smart fridge integration** — auto inventory updates via smart-fridge sensors
 - 🤝 **Community food-sharing** — let neighbors claim surplus food nearing expiry
 - 🧾 **Retailer partnerships** — pull structured expiry data from e-receipts and loyalty apps
 - 🌎 **Regional shelf-life models** — localize predictions for climate, diet, and produce variety
 
-## ✅ Conclusion
+## Conclusion
 
 Household food waste is a solvable, everyday problem — not just an industrial-scale one. FreshTrack lowers the effort of tracking groceries to a single photo, making waste prevention a habit rather than a chore. A lightweight AI stack (image recognition + OCR + a shelf-life lookup) is enough to deliver real value without heavy infrastructure.
 
-## 👤 Team
+## Team
 
 - **Team Lead:** Vasukumar Chauhan
 - **Team Member:** Jayvina Dhedhi
